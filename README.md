@@ -1,2 +1,2 @@
 # cheyennes_rep02
-your mom
+HTML/CSS assignment 2
