@@ -1,1 +1,37 @@
+h1{
+    color: purple;
+    font-size: 24px;
+}
+
+h2{
+    color: orange;
+    font-size: 20px;
+}
+
+h3{
+    color: red;
+    font-size: 20px;
+}
+
+h4{
+    color: brown;
+    font-size: 20px;
+}
+
+body {
+    background-color: #518DC2;
+    font-family: Times_New_Roman;
+    border: 2px black;
+    color: grey;
+}
+
+
+*{
+    border: 2px black;
+}
+
+.high{
+    border: 2px black;
+}
+/* I don't know why my borders are not showing up and are only showing when I put the "*" in the second to last section.
 
